@@ -20,9 +20,6 @@
 
 ## Estatísticas:
 
-<div>
-<a href="https://github.com/carolinearchanjo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinearchanjo&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinearchanjo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![carolinearchanjo's Stats](https://github-readme-stats.vercel.app/api?username=carolinearchanjo&theme=synthwave&show_icons=true&hide_border=true&count_private=true) ![carolinearchanjo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=carolinearchanjo&theme=synthwave&hide_border=true) ![carolinearchanjo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinearchanjo&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
 
 ![snake gif](https://github.com/carolinearchanjo/carolinearchanjo/blob/output/github-contribution-grid-snake.svg)
