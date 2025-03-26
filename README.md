@@ -1,5 +1,4 @@
-# Olá, me chamo Caroline ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, bem vindo ao meu perfil GitHub ! 👋
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte Técnico na Supercomm, no time do CeletiHub!
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web com HTML, CSS e Javascript e Desenvolvimento Mobile com Flutter
