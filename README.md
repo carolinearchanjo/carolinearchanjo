@@ -1,11 +1,8 @@
 # Olá, bem vindo ao meu perfil GitHub ! 👋
 
 - :wrench: Atualmente estou trabalhando como Analista de Suporte Técnico na Supercomm, no time do CeletiHub!
-- 📓: Atualmente estou aprendendo Desenvolvimento Web com HTML, CSS e Javascript e Desenvolvimento Mobile com Flutter
+- 📓: Atualmente estou aprendendo Desenvolvimento Web com HTML, CSS e Javascript
 - :mortar_board: Estou realizando também a formação de Análise de Dados do Google pelo Coursera
-- 💬 Adoro conversar sobre sobre Radiologia e Neurociências 
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: Amo videogames, sou uma curiosa nata pela área da saúde e neurociências, e produzi um trabalho sobre aplicações da Ressonância Magnética na Psiquiatria
 
 ## Ferramentas e Tecnologias
 
