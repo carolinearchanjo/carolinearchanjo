@@ -1,8 +1,8 @@
 # Olá, bem vindo ao meu perfil GitHub ! 👋
 
 - :wrench: Atualmente estou trabalhando como Analista de Suporte Técnico na Supercomm, no time do CeletiHub!
-- 📓: Atualmente estou aprendendo Desenvolvimento Web com HTML, CSS e Javascript
-- :mortar_board: Estou realizando também a formação de Análise de Dados do Google pelo Coursera
+- 📓: Atualmente estou cursando Engenharia de Software
+- :mortar_board: Estou realizando também a formação de Análise de Dados do Google pelo Coursera e participando do projeto Oracle Next Education
 
 ## Ferramentas e Tecnologias
 
