@@ -2,7 +2,7 @@
 
 - :wrench: Atualmente estou trabalhando como Analista de Sucesso do Cliente na Supercomm, no time do CeletiHub!
 - 📓: Atualmente estou cursando Engenharia de Software
-- :mortar_board: Estou realizando também a formação de Análise de Dados do Google pelo Coursera e participando do projeto Oracle Next Education
+
 
 ## Ferramentas e Tecnologias
 
