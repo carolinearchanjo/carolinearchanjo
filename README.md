@@ -15,9 +15,3 @@ src="https://github.com/devicons/devicon/blob/v2.17.0/icons/salesforce/salesforc
 <a href = "mailto:caroline.archanjo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/archanjocaroline" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-## Estatísticas:
-
-![carolinearchanjo's Stats](https://github-readme-stats.vercel.app/api?username=carolinearchanjo&theme=synthwave&show_icons=true&hide_border=true&count_private=true) 
-
-![carolinearchanjo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinearchanjo&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
