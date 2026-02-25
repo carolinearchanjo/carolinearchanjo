@@ -2,7 +2,7 @@
 
 - :wrench: Atualmente estou trabalhando como Analista de Sucesso do Cliente na Supercomm, no time do CeletiHub!
 - 📓: Atualmente estou cursando Engenharia de Software
-- 
+
 
 ## Ferramentas e Tecnologias
 
