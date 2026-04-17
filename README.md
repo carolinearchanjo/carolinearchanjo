@@ -10,11 +10,12 @@
   <a href="https://skillicons.dev" style="display: inline-block;">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,postman,postgres,vue,mongodb" height="48" style="display: block;" />
   </a>
- <img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" 
-  height="48" 
-  style="display: block;"
-/>
+ <span style="display:inline-flex; align-items:center; overflow:hidden; height:48px;">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" 
+    height="48" 
+  />
+</span>
 </p>
 
 ## Contatos:
