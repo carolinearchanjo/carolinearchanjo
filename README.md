@@ -6,7 +6,7 @@
 
 ## Ferramentas e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,postman,postgres,vue,mongodb)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="48" height="48"/>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,postman,postgres,vue,mongodb"/></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="48" height="48"/></p>
 
 ## Contatos:
 
