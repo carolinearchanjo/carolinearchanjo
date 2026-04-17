@@ -10,11 +10,12 @@
   <a href="https://skillicons.dev" style="display: inline-block;">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,postman,postgres,vue,mongodb" height="48" style="display: block;" />
   </a>
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" 
-  height="48" 
-  style="transform: translateY(-1px);"
-/>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,postman,postgres,vue,mongodb" />
+  </a>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="48"/>
+</p>
 </p>
 
 ## Contatos:
