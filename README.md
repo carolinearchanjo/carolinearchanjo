@@ -1,7 +1,7 @@
 # Olá, bem vindo ao meu perfil GitHub ! 👋
 
-- :wrench: Atualmente estou trabalhando como Analista de Sucesso do Cliente na Supercomm, no time do CeletiHub!
-- 📓 Atualmente estou cursando Engenharia de Software
+- :wrench: Atualmente estou trabalhando como Analista de Suporte Técnico na Supercomm, no time do CeletiHub!
+- 📓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 
 
 ## Ferramentas e Tecnologias
